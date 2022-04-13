@@ -2,7 +2,7 @@
 
 This application demonstrates the usage of `webapis.timer`. 
 
-## How to use the Document Player application
+## How to use the Timer Settings application
 
 1. Run the app on your LFD.
 2. Check available options on the screen.
@@ -33,7 +33,7 @@ Partner level privilege of certificate is supported.
 ### File structure
 
 ```
-DocumentPlayer/ - PlayerAvplay sample app root folder
+TimerSettings/ - TimerSettings sample app root folder
 │
 ├── fonts/ - fonts used by this app
 │   │
